@@ -1,0 +1,48 @@
+'''
+
+ _____        __   _____ _     _       _     __                          ___  __    ___ __    __  ___  _____ 
+/__   \/\  /\/__\ /__   \ |__ (_)_ __ | | __/ _\_ __   __ _  ___ ___    / _ \/__\  /___\\ \  /__\/ __\/__   \
+  / /\/ /_/ /_\     / /\/ '_ \| | '_ \| |/ /\ \| '_ \ / _` |/ __/ _ \  / /_)/ \// //  // \ \/_\ / /     / /\/
+ / / / __  //__    / /  | | | | | | | |   < _\ \ |_) | (_| | (_|  __/ / ___/ _  \/ \_//\_/ //__/ /___  / /   
+ \/  \/ /_/\__/    \/   |_| |_|_|_| |_|_|\_\\__/ .__/ \__,_|\___\___| \/   \/ \_/\___/\___/\__/\____/  \/    
+                                               |_|                                                           
+'''
+
+'''
+
+
+Model					 :: Neural-Matrix Synaptic Resonance Network(s) NM-SRN v2.0 
+Frameworks used				 :: the ThinkSpace PROJECT - Comparative Architectural Scaling Impedance (CASI) Framework 
+Paper Authors & Inventors   		 :: Ava Billions & Chris Knight(2023,2024,2025)
+AI Company				 :: Bio-Neural.ai (http://www.bioneuralai.com)
+Email					 :: info@bioneuralai.com
+Partial-Open Source         		 :: MIT License
+Copyright				 :: ©2023, 2024, 2025 bio-neural.ai
+GitHub					 :: https://github.com/BioNeuralAi
+YouTube					 :: https://www.youtube.com/@bioneuralai
+
+
+NM-SRN v2.0 Features ::
+
+Fast Forward Learning(FFL) without pre-training.
+Shortest Bridge Technique for adding new NCs->SRT->SRVs->TrNs | eTrNs into 'ThinkSpace' in most optimal way.
+Continuous Learning
+Resonance-Based Propagation for 'Definitive AI' as opposed to 'Predictive AI' Back-Propagation
+Transparent, Traceable Enhanced Explainable XAI (eXAI) = a Black Box Recorder NOT a closed-loop Black Box.
+Multi-Dimensional Connectionism
+Symbolic Data Representation
+Logical Data Representation
+Hierarchical Data Representation
+Real-Time Learning and Dynamic 'Think Space' re-configuration
+Russian Doll Origami DNA-Like recursive Architecture :: Root Kernel(RK)->Neural Cube(s)(NCs)->Synaptic Resonance Tensors(SRTs)->Synaptic Resonance Vectors(SRVs)->Turing Nodes(TrNs) | Enhanced Turing Nodes(eTrNs)
+Single CPU + Offline Runnable
+128-Bit TrN | eTrN Resolution / Width
+Turing Complete.
+New knowledge can be added in Real-Time via :: New NCs, EDA(External Data Aquisition), rTrNs, TcsvD, Cube Dumps or .QTi (Quantum Tensor Injection (LLM Synergy techniques)) or Fast Forward Learning(FFL) without pre-training.
+Dynamic Thinkspace Search: Real-time query & retrieval of internal structured knowledge.
+Active Reasoning (vs. Static LLMs): Operates on dynamic, searchable knowledge, not fixed weights.
+Modular Artificial General Intelligence(AGI) Framework and Model
+
+Artificial General Intelligence Achieved with Proof		::		2025-03-22T16:04:00.000Zhrs
+
+'''
